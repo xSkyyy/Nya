@@ -8,11 +8,11 @@ Download the latest version of Nya from [releases](https://github.com/xskyyy/Nya
 
 Nya requires BSML and SiraUtil, which can both be found in ModAssistant.
 
-## Supported web APIs
+## Supported Image Sources
 * [Waifu.Pics](https://waifu.pics/)
 * [Nekos.Life](https://nekos.life/)
 * [xSky API](https://api.xsky.dev/)
-* Local Files *(Not really a web API but I may as well list it)*
+* Local Files 
 
 ### Local Files
 In order for local files to work there must be compatible images in the sfw / nsfw files found in Nya's UserData folder.
