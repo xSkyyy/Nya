@@ -32,7 +32,7 @@ namespace Nya.Utils
                     URL = "https://api.xsky.dev/", // untested as of this commit. This message will be removed once this code is tested.
                     json = "url",
                     SfwEndpoints = new List<string> { "neko", "nekoirl" },
-                    NsfwEndpoints = new List<string> { "feet", "trap", "futa","femdom" }
+                    NsfwEndpoints = new List<string> { "feet", "trap", "futa" }
                 }
             },
             {
